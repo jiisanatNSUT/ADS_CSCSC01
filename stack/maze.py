@@ -1,4 +1,4 @@
-"""ADS_CSCSE01/maze.py
+"""ADS_CSCSE01/stack/maze.py
 Lab-1: 
 
 1.3. Write the code for the Maze problems. Show the input and output in the Graphical Form. 

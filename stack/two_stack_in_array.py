@@ -1,4 +1,4 @@
-"""ADS_CSCSC01\two_stack_in_array.py
+"""ADS_CSCSC01/stack/two_stack_in_array.py
 Lab-1: 
 
 1.1.Implement two stacks in an Array

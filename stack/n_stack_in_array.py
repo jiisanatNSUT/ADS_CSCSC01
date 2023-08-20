@@ -1,4 +1,4 @@
-"""ADS_CSCSC01/n_stack_in_array.py
+"""ADS_CSCSC01/stack/n_stack_in_array.py
 Lab-1:
 
 1.2. Implement N stacks in an Array
