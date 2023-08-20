@@ -1,3 +1,9 @@
+"""ADS_CSCSC01\two_stack_in_array.py
+Lab-1: 
+
+1.1.Implement two stack in an Array
+"""
+
 from typing import Union, List
 
 
