@@ -1,6 +1,6 @@
 """ADS_CSCSC01/queue/n_queue_in_array.py
 Lab: 2 -
-Implement N queues in a given Array of Size N. 
+2.1. Implement N queues in a given Array of Size N. 
 Show the values of the Front, Rear , Boundary pointers for each queue in 
 graphical form after very addition and deletion operation.
 """
