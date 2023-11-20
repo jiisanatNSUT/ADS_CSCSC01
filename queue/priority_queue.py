@@ -3,6 +3,8 @@ Lab: 2 -
 2.4.  Implement the priority Queues using the 2 Dimensional Array. 
 Show all the add and delete operation in graphical form. in python
 """
+from typing import List
+
 
 class PriorityQueue:
     def __init__(self) -> None:
